@@ -1722,7 +1722,7 @@ fieldset .legend {
 
 /* line 1, ../../scss/modules/_hero.scss */
 #mueller-training {
-  background-image: url("../img/hero/mueller-valves.jpg");
+  background-image: url("../img/hero/Mueller Product-123.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-position: 0;
@@ -1736,7 +1736,7 @@ fieldset .legend {
 @media (min-width: 75em) {
   /* line 1, ../../scss/modules/_hero.scss */
   #mueller-training {
-    background-image: url("../img/hero/mueller-valves.jpg");
+    background-image: url("../img/hero/Mueller Product-123.jpg");
   }
 }
 
