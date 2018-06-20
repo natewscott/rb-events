@@ -3,7 +3,7 @@
   .info {
     max-width: 1380px;
     margin: 0 auto;
-    padding: 5% 0;
+    padding: 5% 5%;
     @include display-flex;
     @include flex-direction(column);
     @include justify-content(space-between);
@@ -16,7 +16,7 @@
           margin: 0 5%;
           max-width: 780px;
           @include breakpoint($medium) {
-            margin: 0;
+            // margin: 0;
             // margin-right: 5%;
           }
              h1,h2 {

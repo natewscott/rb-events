@@ -418,7 +418,7 @@ body, html {
   height: auto;
   padding: 0;
   font-family: "Lato", sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   background-color: #eee;
   box-sizing: border-box;
 }
@@ -2897,7 +2897,6 @@ button.md-close {
 .products .benifits-info p {
   font-size: 20px;
   font-size: 1.17647rem;
-  font-weight: 100;
   margin: 0;
   color: black;
 }
@@ -2930,7 +2929,7 @@ button.md-close {
 .training-details .info {
   max-width: 1380px;
   margin: 0 auto;
-  padding: 5% 0;
+  padding: 5% 5%;
   display: -webkit-flex;
   display: flex;
   -webkit-flex-direction: column;
@@ -2949,12 +2948,6 @@ button.md-close {
 .training-details .info .info-text {
   margin: 0 5%;
   max-width: 780px;
-}
-@media (min-width: 47em) {
-  /* line 15, ../../scss/modules/_training-details.scss */
-  .training-details .info .info-text {
-    margin: 0;
-  }
 }
 /* line 22, ../../scss/modules/_training-details.scss */
 .training-details .info .info-text h1, .training-details .info .info-text h2 {

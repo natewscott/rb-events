@@ -50,7 +50,7 @@
     }
     p {
       @include responsive-typography(20px, 23px, false);
-      font-weight: 100;
+      // font-weight: 100;
       margin: 0;
       color: black;
     }
